@@ -23,4 +23,8 @@ def  is_old(num):
     else:
         return "Số lẻ"
 num = int(input("Nhập số: "))
-print(is_old(num))
+print(is_old())
+print(is_old(2)) # ewewe
+
+
+
